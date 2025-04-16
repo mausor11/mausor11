@@ -34,6 +34,8 @@ The goal is to improve digital accessibility by applying WCAG 2.1 AA standards a
 
 ### ✅ Finished Projects
 
+- [`🎵 Music`](https://github.com/mausor11/Music.) – A basic prototype app that controls music playback using computer vision techniques. A precursor to more advanced gesture-controlled projects.
+
 - [`🎵 Music-computer-vision`](https://github.com/mausor11/Music-computer-vision) – A desktop app that lets users control music playback using hand gestures. Built with OpenCV, MediaPipe, and PyAutoGUI.
 
 - [`🔢 Conjugate-Gradient-Method`](https://github.com/mausor11/Conjugate-Gradient-Method) – A Python implementation of the Conjugate Gradient method for solving large linear systems. Focused on efficiency and clarity in numerical computations.
