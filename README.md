@@ -29,3 +29,13 @@
 
 🛠 **SpocifyWCAG** – an engineering thesis project focused on creating a web app that allows users to control Spotify using gestures, voice commands, and screen reading.  
 The goal is to improve digital accessibility by applying WCAG 2.1 AA standards and assistive technologies such as MediaPipe, SpeechRecognition, and TTS engines.
+
+---
+
+### ✅ Finished Projects
+
+- [`🎵 Music-computer-vision`](https://github.com/mausor11/Music-computer-vision) – A desktop app that lets users control music playback using hand gestures. Built with OpenCV, MediaPipe, and PyAutoGUI.
+
+- [`🔢 Conjugate-Gradient-Method`](https://github.com/mausor11/Conjugate-Gradient-Method) – A Python implementation of the Conjugate Gradient method for solving large linear systems. Focused on efficiency and clarity in numerical computations.
+
+- [`🗜️ HuffmanCoding`](https://github.com/mausor11/HuffmanCoding) – A Python script for compressing and decompressing text using Huffman Coding. Great for understanding binary trees and greedy algorithms.
